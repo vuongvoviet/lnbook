@@ -1,8 +1,8 @@
 [preface]
 [[preface]]
-== Preface
+== Preface 
 
-This book is a collaboration between Andreas M. Antonopoulos, Olaoluwa Osuntokun, and Rene Pickhardt.
+Sách này là sự cộng tác giữa Andreas M. Antonopoulos, Olaoluwa Osuntokun và and Rene Pickhardt.
 
 === How to Use This Book
 
